@@ -9,6 +9,8 @@ For this project following additional packages to `python3` are required:
 * `numpy`
 * `matplotlib`
 
+You can also use the base environment of `conda` (version 4.7.12).
+
 In `data` you find the data for the project as described in the notebook. Note that data comes from Udacity/Starbucks and they might have rights on it.
 
 Have fun!
